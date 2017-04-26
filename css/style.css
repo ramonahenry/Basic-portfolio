@@ -1,0 +1,67 @@
+/**CSS style sheet for Portfolio Website */
+header{
+
+}
+
+.name_heading{
+	float: left;
+	width: 270px;
+	background-color: #4aaaa5;
+
+}
+
+.link_header {
+	float: right;
+	width: 80px;
+	padding-left: 100px;
+
+
+}
+body{
+
+}
+h1{	
+	float: left;
+	width: 270px;
+	background-color: #4aaaa5;
+	padding-left: 80px;
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+section{
+	
+
+}
+
+
+.main{ 
+	width: 650px;
+	float: left;
+	padding: 22px;
+	margin-left: 20px;	
+
+}
+	.box_heading{
+
+	}
+		
+
+.connect{
+	width: 250px;
+	float: left;
+	padding: 22px
+	;
+}
+	.box_heading2{}
+	
+
+footer{
+
+}
